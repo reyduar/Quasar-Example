@@ -28,7 +28,7 @@
         <q-card-section class="row items-center justify-between">
           <div class="text-h6">Image</div>
           <q-space />
-          <q-btn icon="close" flat round dense v-close-dialog />
+          <q-btn icon="close" flat round dense v-close-popup />
         </q-card-section>
         <q-card-section>
           <q-img

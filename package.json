@@ -2,8 +2,8 @@
   "name": "quasar-example",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
-  "productName": "Quasar App",
-  "author": "Ariel Duarte",
+  "productName": "Quasar SPA",
+  "author": "ariel.duarte <arielpy@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
